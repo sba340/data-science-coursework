@@ -117,6 +117,5 @@ data-science-coursework/
   README.md
 ```
 
-## License
 
-Released for educational use. Add a LICENSE file (for example MIT) if you want others to reuse the code.
+
